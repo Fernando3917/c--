@@ -8,8 +8,8 @@
 using namespace std;
 
 
-/*////////////////////////-//// ex 1-Comparação de duas variaveis ///////*/
-/*
+/*////////////////////////-//// ex 1-Comparaï¿½ï¿½o de duas variaveis ///////*/
+
 int main(){
 
     int a,b; 
@@ -21,62 +21,62 @@ int main(){
     
     
     if(a==b){
-        printf("Os valores são igual");
+        printf("Os valores sï¿½o igual");
         
     }   
     else{
-        printf("ops, os valores são diferentes");
+        printf("ops, os valores sï¿½o diferentes");
     }
    
     return 0;
 }
-*/
+
 
 /*/////////////////////// ex 2 -////////////////////////////////////////*/
 
-/*
+
 int main(){
 
     int x;
     
-    printf("Escreva um número: ");
+    printf("Escreva um nï¿½mero: ");
     scanf("%d",&x);
 
     if(x%2==0){
-        printf("Esse número e par");
+        printf("Esse nï¿½mero e par");
     }
 
     else{
-        printf("Esse número e impar!");
+        printf("Esse nï¿½mero e impar!");
     }
 
     return 0;
 }
-*/
+
 
 /*/////////////////////////////ex 3 -///////////////////////////////////*/
-/*
+
 int main(){
     int x;
     
-    printf("Digite um número: ");
+    printf("Digite um nï¿½mero: ");
     scanf("%d",&x);
     
     if(x>0){
-        printf("Esse número e popositivo: ");
+        printf("Esse nï¿½mero e popositivo: ");
         
     }
     else{
-        printf("Esse número e negativo :(");
+        printf("Esse nï¿½mero e negativo :(");
     }
     
     
     
     return 0;
 }
-*/
+
 /////////////////////////////////ex 4/////////////////////////////////////////////////////
-/*
+
 int main(){
     int idade;
     
@@ -84,11 +84,11 @@ int main(){
     scanf("%d",&idade);
     
     if(idade>16){
-        printf("Parabens você já pode votar!!  ;--;// ");
+        printf("Parabens vocï¿½ jï¿½ pode votar!!  ;--;// ");
         
     }
     else{
-        printf("Deu ruim irmão :(");
+        printf("Deu ruim irmï¿½o :(");
     }
     
     
@@ -96,14 +96,14 @@ int main(){
     return 0;
 }
 
-*/
+
 ///////////////////////////////////ex 5- ////////////////////////////////////////////////////////////
 
 
 int main(){
     int num1, num2, num3, maior, menor;
     
-    printf("Digite os 3 números que serão analisados: ");
+    printf("Digite os 3 nï¿½meros que serï¿½o analisados: ");
     scanf("%d",&num1);
     scanf("%d",&num2);
     scanf("%d",&num3);
